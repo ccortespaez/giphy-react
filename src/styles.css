@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.gift-container {
+    width: 100%;
+    padding: 20px;
+}
+
+.gift__title {
+    text-align: center;
+    font-weight: 800;
+    padding: 20px;
+}
+
+.gift__list {
+    margin: 20px;
+}
